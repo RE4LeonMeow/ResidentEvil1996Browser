@@ -1,5 +1,6 @@
+## **Resident Evil (1996) Browser Port**
 
-**Android edition:** link coming soon
+**Android edition:** https://github.com/RE4LeonMeow/ResidentEvil1996Android
 
 **Play in your browser:** link coming soon
 
