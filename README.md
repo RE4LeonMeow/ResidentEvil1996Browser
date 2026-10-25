@@ -2,7 +2,7 @@
 
 **Android edition:** https://github.com/RE4LeonMeow/ResidentEvil1996Android
 
-**Play in your browser:** link coming soon
+**Play in your browser:** https://re4leonmeow.github.io/ResidentEvil1996Browser/
 
 Hey! This is my unofficial browser port of Resident Evil 1 for PC and phones,
 based on
